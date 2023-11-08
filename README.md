@@ -1,9 +1,9 @@
-# Kannel Installetion steps
+# Kannel Installation steps
 
 ### system update command
-```sh
-# linux
-sudo update
 
+#### linux
+```sh
+sudo update
 ```
 
